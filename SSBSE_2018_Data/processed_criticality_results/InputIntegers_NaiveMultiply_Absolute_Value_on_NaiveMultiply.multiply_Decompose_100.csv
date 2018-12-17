@@ -1,0 +1,2 @@
+#location value, score average at location, score std error at location, number of data points, score median at location, median of all scores, average timeCount (number of fallible operations executed), average failCount (number of fallible operations that actually failed),
+1.0 5.7586555515327875E57 1.5344486486539288E57 888 3.1691265005705735E29 5.7586555515327875E57 1.0 1.0
